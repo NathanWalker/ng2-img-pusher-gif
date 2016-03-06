@@ -1,7 +1,5 @@
 ## ng2-img-pusher-gif
 
-Easily implement native vertical responsive scaling by creating on-the-fly GIFs via base64.
-
 Dynamic native vertical scaling is difficult. Poor solutions include JavaScript and CSS. By using the `img` tag it can be easily accomplished with images, the building blocks of the web that have been around since the dawn of the internet.
 
 The `img` tag from day one has been the only element that respects aspect ratios. Taking advantage of this fact, you can use an `img` to reposition content in the vertical space, which makes responsive design a breeze.

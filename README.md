@@ -1,6 +1,6 @@
 ## ng2-img-pusher-gif
 
-Dynamic native vertical scaling is difficult. Poor solutions include JavaScript and CSS. By using the `img` tag it can be easily accomplished with images, the building blocks of the web that have been around since the dawn of the internet.
+Dynamic 'browser native' vertical scaling is difficult. Poor solutions include JavaScript and CSS. By using the `img` tag it can be easily accomplished with images, the building blocks of the web that have been around since the dawn of the internet.
 
 The `img` tag from day one has been the only element that respects aspect ratios. Taking advantage of this fact, you can use an `img` to reposition content in the vertical space, which makes responsive design a breeze.
 

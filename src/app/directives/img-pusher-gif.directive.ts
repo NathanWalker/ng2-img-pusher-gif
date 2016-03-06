@@ -18,8 +18,8 @@ export class ImgPusherGifDirective implements OnInit {
   constructor(private el: ElementRef, private renderer: Renderer, private pusherGifService: ImgPusherGifService) { }
 
   ngOnInit() {
-    let w;
-    let h;
+    let w: any;
+    let h: any;
     if (this.dimensions) {
       let d = this.dimensions.split('x');
       w = d[0];

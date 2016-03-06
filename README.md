@@ -10,7 +10,7 @@ This is the official [Angular 2](https://angular.io/) version of the plain vanil
 
 # Demo
 
-**Give it a couple seconds to start up since it's on a heroku instance**
+*Give it a couple seconds to start up since it's on a heroku instance.*
 
 Try out the [DEMO](https://ng2-img-pusher-gif-demo.herokuapp.com/)!
 
